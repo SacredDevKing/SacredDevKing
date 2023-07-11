@@ -61,12 +61,12 @@
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
+<!--       <td valign="center" width="100px"><b>Blockchain<b></td> -->
       <td valign="center" width="100px"><b>Mobile<b></td>
       <td valign="center" width="100px"><b>Reverse-Engineering<b></td>
     </tr>
     <tr>
-      <td valign="center" align="center" width="300px">
+<!--       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Web3.js-orange" /> 
         <img src="https://img.shields.io/badge/Solidity-orange" /> 
         <img src="https://img.shields.io/badge/Ethers.js-orange" /> 
@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/Rust-orange" /> 
         <img src="https://img.shields.io/badge/Smart Contract-orange" /> 
         <img src="https://img.shields.io/badge/Bitcoin-orange" />
-      </td>
+      </td> -->
      <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/React Native-orange" /> 
        <img src="https://img.shields.io/badge/Flutter-orange" /> 
